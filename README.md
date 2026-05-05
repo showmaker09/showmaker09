@@ -26,7 +26,7 @@ soluciones prácticas y soluciones de alta escabilidad
 
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
-| Juego en flutter de tipo acertijos https://github.com/showmaker09/juego-Joel-final | acertijos y exploracion de mundos | Flutter|
+| Juego en flutter de tipo acertijos| https://github.com/showmaker09/juego-Joel-final | acertijos y exploracion de mundos | Flutter|
 | proyecto_ pizzeria| https://github.com/showmaker09/api-warner-proyecto- |pequeña plataforma de ventas del lado del vendedor | javascript, sqlite |
 |  Nodus_App | https://github.com/SKANL/Nodus_App |aplicacion multiplataforma para revision,entrega de proyectos integradores universitarios | c#, Maui, MongoDb |
 |Aplicacion_Pacientes(Proyecto en proceso|  https://github.com/showmaker09/Portafolio.NetC- | se busca crear un apliacion movil en c#(Maui) para seguimiento paciente-terapeuta(psicologia)| c#, Maui, SQL)
